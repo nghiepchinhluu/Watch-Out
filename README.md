@@ -4,6 +4,6 @@ The project is an Arduino-made accessory, which can be attached to phones, detec
 DEMO: https://devpost.com/software/watch-out-upgscw
 
 Later on, based on the same idea, we developed a collision dectecting stick which supports blind people to walk around.
-This time, we used 1 ultrasonic sensor to measure the distance to the obstacles in the front, 1 buzzer and 1 servo to warn the stick holder if there is any obstacle at the direction the stick is pointing to.
+This time, we used 1 ultrasonic sensor to measure the distance to the obstacles in the front, 1 buzzer and 1 servo to warn the stick holder if there is any obstacle at the direction the stick is pointing to. The closer the object is, the louder the buzzer sounds and the stronger the stick vibrates due to servo spinning.
 
 PICS: https://drive.google.com/open?id=1klWiZ_ScEP0F2WGRu-eLPArdBhuStEmE
